@@ -10,7 +10,7 @@ namespace TestDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("check");
+            Console.WriteLine("new check");
             Console.ReadLine();
         }
     }
