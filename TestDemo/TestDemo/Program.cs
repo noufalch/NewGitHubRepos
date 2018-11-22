@@ -10,6 +10,8 @@ namespace TestDemo
     {
         static void Main(string[] args)
         {
+            int x, y;
+            int add = x+y
             Console.WriteLine("check");
             Console.ReadLine();
         }
