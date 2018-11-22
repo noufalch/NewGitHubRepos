@@ -9,6 +9,7 @@ namespace Test_Demo_2
     {
         public void Main(string[] args)
         {
+            Console.WriteLine("");
         }
     }
 }
